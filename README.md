@@ -1,4 +1,4 @@
-PDF Question Answering with Web Scraping and LangChain
+#Heading 1 PDF Question Answering with Web Scraping and LangChain
 This project demonstrates how to scrape text from a webpage, convert it into a PDF, and build a question-answering system using LangChain with and without retrieval augmentation.
 
 Overview
