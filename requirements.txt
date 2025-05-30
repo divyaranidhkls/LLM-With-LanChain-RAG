@@ -1,0 +1,9 @@
+
+langchain_community 
+ollama
+bs4
+requests
+beautifulsoup4
+langchain
+reportlab
+textwrap
